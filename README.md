@@ -121,6 +121,6 @@ Pero estos desafíos son manejables y no impiden la ejecución del proyecto.
 ## 📬 Contacto
 
 Para consultas, sugerencias o colaboraciones:  
-📧 ricardo.eber.pastrana@email.com *(modificar si lo deseas)*
+📧 eberpastrana@gmail.com
 
 ---
