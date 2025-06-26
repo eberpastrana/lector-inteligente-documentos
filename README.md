@@ -118,6 +118,55 @@ Pero estos desafíos son manejables y no impiden la ejecución del proyecto.
 
 ---
 
+## 📌 Entrega Final – Consignas Resueltas
+## 🧪 Metodología
+El proyecto se lleva a cabo mediante los siguientes procedimientos:
+
+- Carga y extracción del texto: se utiliza PyMuPDF para extraer el contenido de documentos PDF cargados desde una carpeta local.
+- Preprocesamiento: se recorta el texto a los primeros 3000 caracteres para optimizar el uso de tokens.
+- Generación de resumen: se utiliza un prompt bien definido con el modelo GPT-4 para obtener un resumen claro y enfocado.
+- Generación visual: se solicita a DALL·E una imagen representativa (ej. check-list o mapa mental) a partir del texto.
+- Presentación: los resultados se presentan de manera clara y reproducible en un Jupyter Notebook.
+- Justificación: Esta metodología asegura claridad, eficiencia y sostenibilidad. Se basa en herramientas accesibles y potentes que permiten escalar la solución a casos reales.
+
+## ⚙️ Herramientas y tecnologías
+- Herramientas utilizadas:
+
+1.Python 3 + Jupyter Notebook
+2.OpenAI API: ChatGPT (GPT-4) y DALL·E
+3.PyMuPDF para manejo de PDFs
+
+- Técnicas de fast prompting:
+
+1.Prompts claros y específicos: delimitan el tipo de salida esperada (longitud, foco temático, formato visual).
+2. Chaining lógico de prompts: cada función (resumen, imagen) tiene su propio prompt, evitando ambigüedad.
+3.Optimización del contexto: se limita el texto enviado al modelo para mejorar performance.
+4.Estilo instructivo en los prompts: se utiliza lenguaje directo e imperativo ("Genera...", "Lee el siguiente documento...").
+
+
+## ✅ Conclusiones
+Se logró automatizar el análisis de documentos con una interfaz clara y accesible.
+
+Los objetivos de generar resúmenes útiles y visualizaciones relevantes se cumplieron satisfactoriamente.
+
+El proyecto es viable, escalable y puede adaptarse fácilmente a casos reales del entorno corporativo.
+
+Futuras mejoras podrían incluir:
+
+1. Clasificación automática de tipo de documento.
+2.Personalización de prompts según área o industria.
+3.Evaluación por múltiples modelos para validar precisión.
+
+## 🎨 Prompt texto-imagen:
+
+Escena dividida en dos mitades. A la izquierda, una persona abrumada y estresada en una oficina desordenada, rodeada de montañas de papeles, contratos y documentos técnicos esparcidos por todos lados. El ambiente es caótico y con colores apagados. A la derecha, la misma persona sonriente, en un escritorio ordenado y moderno, utilizando un lector de documentos inteligente con aspecto tecnológico (pantalla futurista, interfaz limpia). Todo está organizado digitalmente, con iconos de resúmenes, visualizaciones y check-lists. El entorno es luminoso, limpio y tecnológico.
+
+
+IMAGEN: https://github.com/user-attachments/assets/d21d12c9-1655-4638-b262-004d35c7c1e3
+
+IMAGEN: https://chatgpt.com/s/m_685dd3c5347c8191aa586775bc0d9fb3
+
+
 ## 📬 Contacto
 
 Para consultas, sugerencias o colaboraciones:  
