@@ -141,8 +141,12 @@ El proyecto se lleva a cabo mediante los siguientes procedimientos:
 - Técnicas de fast prompting:
 
 1.Prompts claros y específicos: delimitan el tipo de salida esperada (longitud, foco temático, formato visual).
+
 2. Chaining lógico de prompts: cada función (resumen, imagen) tiene su propio prompt, evitando ambigüedad.
+   ![ChatGPT Image 26 jun 2025, 20_12_52](https://github.com/user-attachments/assets/6ed0f04a-5e90-4387-8552-1dcd0a275159)
+
 3.Optimización del contexto: se limita el texto enviado al modelo para mejorar performance.
+
 4.Estilo instructivo en los prompts: se utiliza lenguaje directo e imperativo ("Genera...", "Lee el siguiente documento...").
 
 
