@@ -133,7 +133,9 @@ El proyecto se lleva a cabo mediante los siguientes procedimientos:
 - Herramientas utilizadas:
 
 1.Python 3 + Jupyter Notebook
+
 2.OpenAI API: ChatGPT (GPT-4) y DALL·E
+
 3.PyMuPDF para manejo de PDFs
 
 - Técnicas de fast prompting:
@@ -153,7 +155,7 @@ El proyecto es viable, escalable y puede adaptarse fácilmente a casos reales de
 
 Futuras mejoras podrían incluir:
 
-1. Clasificación automática de tipo de documento.
+1.Clasificación automática de tipo de documento.
 2.Personalización de prompts según área o industria.
 3.Evaluación por múltiples modelos para validar precisión.
 
