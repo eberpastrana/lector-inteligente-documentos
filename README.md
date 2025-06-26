@@ -143,7 +143,6 @@ El proyecto se lleva a cabo mediante los siguientes procedimientos:
 1.Prompts claros y específicos: delimitan el tipo de salida esperada (longitud, foco temático, formato visual).
 
 2. Chaining lógico de prompts: cada función (resumen, imagen) tiene su propio prompt, evitando ambigüedad.
-   ![ChatGPT Image 26 jun 2025, 20_12_52](https://github.com/user-attachments/assets/6ed0f04a-5e90-4387-8552-1dcd0a275159)
 
 3.Optimización del contexto: se limita el texto enviado al modelo para mejorar performance.
 
@@ -165,12 +164,14 @@ Futuras mejoras podrían incluir:
 
 ## 🎨 Prompt texto-imagen:
 
-Escena dividida en dos mitades. A la izquierda, una persona abrumada y estresada en una oficina desordenada, rodeada de montañas de papeles, contratos y documentos técnicos esparcidos por todos lados. El ambiente es caótico y con colores apagados. A la derecha, la misma persona sonriente, en un escritorio ordenado y moderno, utilizando un lector de documentos inteligente con aspecto tecnológico (pantalla futurista, interfaz limpia). Todo está organizado digitalmente, con iconos de resúmenes, visualizaciones y check-lists. El entorno es luminoso, limpio y tecnológico.
+1. Crea una imagen escena dividida en dos mitades. A la izquierda, una persona abrumada y estresada en una oficina desordenada, rodeada de montañas de papeles, contratos y documentos técnicos esparcidos por todos lados. El ambiente es caótico y con colores apagados. A la derecha, la misma persona sonriente, en un escritorio ordenado y moderno, utilizando un lector de documentos inteligente con aspecto tecnológico (pantalla futurista, interfaz limpia). Todo está organizado digitalmente, con iconos de resúmenes, visualizaciones y check-lists. El entorno es luminoso, limpio y tecnológico.
 
 
-IMAGEN: https://github.com/user-attachments/assets/d21d12c9-1655-4638-b262-004d35c7c1e3
+![ChatGPT Image 26 jun 2025, 20_12_52](https://github.com/user-attachments/assets/51b24778-cac5-4762-ae26-e3c2bab0226c)
 
-IMAGEN: https://chatgpt.com/s/m_685dd3c5347c8191aa586775bc0d9fb3
+2.Crea una imagen super realista escena dividida en dos mitades. A la izquierda, una persona abrumada y estresada en una oficina desordenada, rodeada de montañas de papeles, contratos y documentos técnicos esparcidos por todos lados. El ambiente es caótico y con colores apagados. A la derecha, la misma persona sonriente, en un escritorio ordenado y moderno, utilizando un lector de documentos inteligente con aspecto tecnológico (pantalla futurista, interfaz limpia), que diga "Lector de documentos ingeligente" en la pantalla. Todo está organizado digitalmente, con iconos de resúmenes, visualizaciones y check-lists. El entorno es luminoso, limpio y tecnológico.
+
+![ChatGPT Image 26 jun 2025, 20_45_33](https://github.com/user-attachments/assets/95f3737f-3e97-4c08-ba72-b44396e8fee0)
 
 
 ## 📬 Contacto
